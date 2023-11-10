@@ -52,18 +52,7 @@ body {
   z-index: 2;
 }
 
-.flowers::before {
-  content: "Sorry";
-  position: absolute;
-  /* Adjust these values to position your text */
-  top: 50%;
-  left: 50%;
-  /* Style your text as needed */
-  color: white;
-  font-size: 20px;
-  /* Use z-index to bring the text to the front */
-  z-index: 1;
-}
+
 
 .flower {
   position: absolute;
